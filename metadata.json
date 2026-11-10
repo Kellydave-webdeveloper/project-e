@@ -1,0 +1,6 @@
+{
+  "name": "NatWest Transaction Receipt Generator",
+  "description": "Professional NatWest & global money transfer receipt generator with form filling, custom currency, status badges, direct printing, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
